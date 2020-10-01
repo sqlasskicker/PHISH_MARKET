@@ -7,7 +7,7 @@ Phish_Market contains different phishing tools for beginners.
 
 * git clone https://github.com/sqlasskicker/PHISH_MARKET
 
-* cd Phish_Market
+* cd PHISH_MARKET
 
 * bash requirements.sh
 
